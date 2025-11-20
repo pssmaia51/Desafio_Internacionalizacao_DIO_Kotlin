@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">maPremièreApp</string>
+    <string name="welcome_message">Bienvenue dans lapplication !</string>
+    <string name="greeting_message">Bonjour, %s!</string>
+</resources>
